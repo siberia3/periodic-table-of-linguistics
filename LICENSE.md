@@ -15,7 +15,7 @@ The Photos of Landscapes, and the Geographical maps, come from third-party Autho
 In general, as long as any derived work from this particular Linguistic Theory is released with a **Share-Alike + Non-Commercial / Editorial Only** licence, whatever part of this work can be copied, modified and re-published without permission, provided that the Original works, Authors and Commercial Licences can be traced back. 
 
 
-![Creative Common license logo CC BY-NC-SA 3.0](https://@@)
+![Creative Common license logo CC BY-NC-SA 3.0](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/Logo%20BY-NC-SA.png)
 
 **CC BY-NC-SA 3.0 – Attribution, Non-Commercial, Share-Alike**
 
