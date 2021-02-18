@@ -5,9 +5,9 @@
 
 The **Mendeleev's Periodic Table of Linguistics** [(Github source file here)](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/The-Mendeleev-Periodic-Table-of-Linguistics.html) is a specific part from the [**Theory of the Siberian Canoe**](https://pagano-arte.blogspot.com/2020/08/theory-of-siberian-canoe.html) [(Github source file here)](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/Theory-of-the-Siberian-Canoe.html). 
 
-The **Theory of the Siberian Canoe** was developed from the idea of the *Continuous Chain of Toponyms in the form KHANGA/SHAMBA* along the coasts of the Indian Ocean, an idea that results from an alternative analysis of the term *Lapp* through the method of the *Phonetic comparison*, which the author extended on an global scale.  
+The **Theory of the Siberian Canoe** was developed from the idea of the *Continuous Chain of Toponyms in the form KHANGA/SHAMBA* along the coasts of the Indian Ocean — an idea that results from an alternative analysis of the term *Lapp* through the method of the *Phonetic comparison*, which the author extended on an global scale.  
 
-This process took to dive in the Indo-Pacific Coastal Migrations and, in particular, to the new hypothesis of some coastal groups entering Siberia from the Pacific Ocean, reaching Europe through the alluvial swamps of Siberia during the Ice Ages — an hypothesis which seems a better explanation for a quantity of myths legends and mysteries. 
+This process took to dive into the Indo-Pacific Coastal Migrations and, in particular, to the new hypothesis of some coastal groups entering Siberia from the Pacific Ocean, *reaching Europe through the alluvial swamps of Siberia during the Ice Ages* — an hypothesis which seems a better explanation for a quantity of myths legends and mysteries. 
 
 
 ![Image of the Civilization of Ice and Swamps Sailors](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/SHA-LIBU%20-%20The%20Salmons.png)
@@ -51,9 +51,9 @@ This should make it possible to track movements and dependencies within Ancient 
 
 ## WHAT YOU CAN DO
 
-There are a lot of things that could be done for the *Theory of the Siberian Canoe* — such as filling the environmental tables, creating a database with filters, creating a statistical data visualization, etc... — but for the above explained reasons, the *Periodic Table* is the real thing to point to.
+There are a lot of things that could be done for the *Theory of the Siberian Canoe* — such as filling the environmental tables, creating a database with filters, creating a statistical data visualization, etc... — but for the above explained reasons, the **Periodic Table** is the real thing to point to.
 
-The given examples show that this system is so "true" that, if one word appears very different from the others, you can "be sure" that you will find a related synonym that matches. 
+The given examples show that this system is so "true" that, if one word appears very different from the others, you can "be sure" that you will find a related synonym that matches the phonetic sequence. 
 
 This is why the contribution of native speakers is much better situation than authors enjoying their own genius alone. 
 
