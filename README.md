@@ -38,7 +38,6 @@ As a result, the *Environmental Linguistic Tables* may show that the word *Sea* 
 The author therefore realized that single languages still hold an intimate **Phonetic Consistency** based on those Basic Concepts, as they use the same Phoneme for all of them. This *Phonetic Consistency* is such, that one term might help *forecast* the shape of the others, giving this linguistic analytical system the name of **The Mendeleev's Periodic Table of Linguistics**.
 
 * **Man**
-* **Sea**
 * **Water**
 * **River**
 * **Forest**
