@@ -3,7 +3,7 @@
 
 ## WHAT IS IT
 
-The **Mendeleev's Periodic Table of Linguistics** [(Github source file here)](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/The-Mendeleev-Periodic-Table-of-Linguistics.html) is a specific part from the [**Theory of the Siberian Canoe**](https://pagano-arte.blogspot.com/2020/08/theory-of-siberian-canoe.html) [(Github source file here)](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/Theory-of-the-Siberian-Canoe.html). 
+The **Mendeleev's Periodic Table of Linguistics** [(Github source file here)](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/The-Mendeleev-Periodic-Table-of-Linguistics.html) is a specific part from the **Theory of the Siberian Canoe** [(Author's Site here)](https://pagano-arte.blogspot.com/2020/08/theory-of-siberian-canoe.html) [(Github source file here)](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/Theory-of-the-Siberian-Canoe.html). 
 
 The **Theory of the Siberian Canoe** was developed from the idea of the *Continuous Chain of Toponyms in the form KHANGA/SHAMBA* along the coasts of the Indian Ocean — an idea that results from an alternative analysis of the term *Lapp* through the method of the *Phonetic comparison*, which the author extended on an global scale.  
 
