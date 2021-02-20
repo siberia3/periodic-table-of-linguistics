@@ -12,7 +12,7 @@ This process took to dive into the Indo-Pacific Coastal Migrations and, in parti
 
 ![Image of the Civilization of Ice and Swamps Sailors](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/SHA-LIBU%20-%20The%20Salmons.png)
 
-<font size="1"> Base-map by [Mapswire.com](https://www.mapswire.com) — Modified with Historical hypothesis by Andrea T. Pagano</font>
+###### Base-map by [Mapswire.com](https://www.mapswire.com) — Modified with Historical hypothesis by Andrea T. Pagano</font>
 	
 
 
@@ -57,3 +57,47 @@ The given examples show that this system is so "true" that, if one word appears 
 This is why the contribution of native speakers is much better situation than authors enjoying their own genius alone. 
 
 Share this project, thanks.
+
+### [→ see License ](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/LICENSE.md)
+
+---
+
+
+## Man — "*The Needy One*"
+
+### The Mendelejev's Table of Linguistics
+
+| GROUP | "*Man*" |	Phoneme	| "*Water*	" | "*Forest*" | "*House*" | "*River*" | 
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| INDOEUROPEAN |
+||Latin **vir**|GHUWU	|# **ur** |**silva**	|**domus**| |
+|| German **mann**|	WAGHA	|**wasser**|**wald**|**wand** "*wall*"| |
+|SEMITIC|
+|URALO-ALTAIC|
+||Finnish **mies**|	WUGHA	|**vesi**|	**metsä**| **mökki** "*cottage*"| |
+|CAUCASIAN|
+|ISOLATED|
+|| Ainu **henke**|KHANGA|**wakka**|**nitay**|**cise**| |
+|INDO-PACIFIC AREA| 
+|EAST-ASIA|
+|BLACK-AFRICA|
+|SIBERIA & AMERICAS|
+
+---
+
+![Image for The Essence of Ainu and Germanics](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/KHANGA%20and%20WAGHA%20-%20The%20Worlds%20of%20Ainu%20and%20Germans.png)
+
+###### Falls: Image by [James Wheeler](https://pixabay.com/users/jameswheeler-5314099/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3753188) from Pixabay.com; The Swamps: Image by [SSidde](https://pixabay.com/users/ssidde-19562401/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5944945) from Pixabay.com
+
+### KHANGA and WAGHA — The essence of Ainu's and north-Germanics
+
+For example, the Table allows us to imagine the *Ainu's* as a "*People of the Littoral*", hunting on rivers upstream (KHANGA) but not going deep into the woods, and not building in stone.
+
+On the contrary, German language does not use **GURU**-based fundamental dictionary as expected, but **WANDA**-based. Surprisingly? Not really, because North-Germanic tribes are known to be "*Coastal Nomads*", and their original name must have been similar to "**Vandal**" or to "**Viking**" (see **Winnili** "*Longobards*").
+
+--- 
+
+## Ranking of Linguistic Darkness
+| | |
+| :---: | :---: | 
+| ![Torrent Falls in the Forest](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/The%20Periodic%20Table%20of%20Linguistics.png) Image by [frogfra](https://pixabay.com/users/frogfra-712330/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=846792) from Pixabay.com — Modified with Concept by Andrea T. Pagano</font>| **"*DARK*" LANGUAGES**<br><br>type "**WUH!**" – *Forest, Constructions*<br><br>***HWMBRU — HWNGRU, HWSKU — MWUGU***<br><br>— — — — —<br><br>**INDOEUROPEAN LANGUAGES**<br>**SEMITIC**<br>**URALO-ALTAIC**<br>**CAUCASIAN**<br>**ISOLATED LANGUAGES** (depends)<br>**INDO-PACIFIC AREA**<br>**EAST ASIA**<br>**BLACK AFRICA** (depends)<br>**SIBERIA AND AMERICAS** <br><br>— — — — —<br><br>***KHAMBW, SHABA — KHANGA — WAKA, KWAHA***<br><br>type "**WAH!**" – *Sea, Nomadism* <br><br>**"*BRIGHT*" LANGUAGES**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
