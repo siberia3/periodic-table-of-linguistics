@@ -67,22 +67,27 @@ Share this project, thanks.
 
 ### The Mendelejev's Table of Linguistics
 
-| GROUP | "*Man*" |	Phoneme	| "*Water*	" |  "*River*" | "*Forest*" | "*House*" | 
+| LINGUISTIC AREA | "*Man*" |	Phoneme	| "*Water*	" |  "*River*" | "*Forest*" | "*House*" | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | INDOEUROPEAN |
 ||Latin **vir**| → GHUWU → |**humor** "*wet*" ||**silva**	|**domus**| 
 || German **mann**|	→ WAGHA →	|**wasser**||**wald**|**wand** "*wall*"| 
 |SEMITIC|
+||
 |URALO-ALTAIC|
 ||Finnish **mies**|	→ WUGHA →	|**vesi**||	**metsä**| **mökki** "*cottage*"| 
 |CAUCASIAN|
+||
 |ISOLATED|
 || Ainu **henke**| → KHANGA → |**wakka**||**nitay**|**cise**| 
 |INDO-PACIFIC AREA| 
+||
 |EAST-ASIA|
+||
 |BLACK-AFRICA|
+||
 |SIBERIA & AMERICAS|
-
+||
 ---
 
 ![Image for The Essence of Ainu and Germanics](https://github.com/siberia3/periodic-table-of-linguistics/blob/main/KHANGA%20and%20WAGHA%20-%20The%20Worlds%20of%20Ainu%20and%20Germans.png)
