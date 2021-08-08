@@ -20,9 +20,9 @@ This process took to dive into the Indo-Pacific Coastal Migrations and, in parti
 
 In the most recent version of the *Theory*, the author took on a more systematic work of linguistic comparison, creating tables for the main words describing **Basic Environments** (Sea, Coast, Forest, River, etc..) in as many languages as possible. This process of Abstraction was meant better to justify the *Basic Environmental Phonemes* of the previous versions, which described the basic **Ethnic Groups**: 
 
-- **WAKA — KHAMBA, MBAHA** (and variants) : Nomadic Coastal Peoples 
-- **BURU — KHUMBW, MBURU** (and variants) : Forest and Mountain Peoples
-- **ANGA — KHANGA, NGARA** (and variants) : "*Hunting along the River Valley*" 
+- "**WAKA**" (**KHAM'MBAHA** and variants) : Nomadic Coastal Peoples 
+- "**BURU**" (**KHUM'MBURU** and variants) : Forest and Mountain Peoples
+- "**ANGA**" (**KHAN'NGARA** and variants) : "*Hunting along the River Valley*" 
 
 Briefly said, these phonemes talk about shy Human groups moving along the safer *Coastal Environment* and, in the search for *Fresh Water*, tracing back *Rivers*. This made them getting confident with *Dark Forests* and learning to manipulate *Hard Materials*, which will be the base for *Structures made of Stone*. 
 
@@ -96,9 +96,9 @@ Share this project, thanks.
 
 ### KHANGA and WAGHA — The essence of Ainu's and north-Germanics
 
-For example, the Table allows us to imagine the *Ainu's* as a "*People of the Littoral*", hunting on rivers upstream (KHANGA) but not going deep into the woods, and not building in stone.
+For example, the Table allows us to imagine the *Ainu's* as a "*People of the Littoral*", hunting on rivers upstream (**KHANGA**) but not going deep into the woods, and not building in stone.
 
-On the contrary, German language does not use **GURU**-based fundamental dictionary as expected, but **WANDA**-based. Surprisingly? Not really, because North-Germanic tribes are known to be "*Coastal Nomads*", and their original name must have been similar to "**Vandal**" or to "**Viking**" (see **Winnili** "*Longobards*"), or also like "**Angles**" and "**Danes**" (**KHANGA**).
+On the contrary, German language does not use **GURU**-based fundamental dictionary as you might expect, but **WANDA**-based. Surprisingly? Not really, because North-Germanic tribes are known to be "*Coastal Nomads*", and their original name must have been similar to "**Vandal**" or to "**Viking**" (see **Winnili** "*Longobards*"), and to "**Angles**" and to "**Danes**" (variant **KHANGA**).
 
 --- 
 
