@@ -98,7 +98,7 @@ Share this project, thanks.
 
 For example, the Table allows us to imagine the *Ainu's* as a "*People of the Littoral*", hunting on rivers upstream (**KHANGA**) but not going deep into the woods, and not building in stone.
 
-On the contrary, German language does not use **GURU**-based fundamental dictionary as you might expect, but **WANDA**-based. Surprisingly? Not really, because North-Germanic tribes are known to be "*Coastal Nomads*", and their original name must have been similar to "**Vandal**" or to "**Viking**" (see **Winnili** "*Longobards*"), and to "**Angles**" and to "**Danes**" (variant **KHANGA**).
+On the contrary, German language does not use **GURU**-based fundamental dictionary as you might expect, but **WANDA**-based. Surprisingly? Not really, because North-Germanic tribes are known to be "*Coastal Nomads*", and their original name must have been similar to "**Vandal**" or to "**Viking**" (see **Winnili** "*Longobards*"), or also to "**Angles**" and to "**Danes**" (variant **KHANGA**).
 
 --- 
 
