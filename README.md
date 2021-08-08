@@ -52,7 +52,7 @@ This should make it possible to track movements and dependencies within Ancient 
 
 There are a lot of things that could be done for the *Theory of the Siberian Canoe* — such as filling the environmental tables, creating a database with filters, creating a statistical data visualization, etc... — but for the above explained reasons, the **Periodic Table** is the real thing to point to.
 
-The given examples show that this system is so "true" that, if one word appears very different from the others, you can "be sure" that you will find a related synonym that matches the phonetic sequence. 
+- the provided examples show that this system is so "true", that if the term is too much different from the fonetic sequence set up by "<i>Man</i>", you can "be sure" that you will find anyway a matching synonym. 
 
 This is why the contribution of native speakers is much better situation than authors enjoying their own genius alone. 
 
